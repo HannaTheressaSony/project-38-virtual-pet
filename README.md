@@ -1,1 +1,1 @@
-# project-38-virtual-pet
+# Virtual-Pet-2.0
